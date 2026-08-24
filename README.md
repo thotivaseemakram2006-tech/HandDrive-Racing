@@ -5,8 +5,8 @@ A hand-gesture controlled racing game built with Python.
 ## 🎮 Controls
 
 - ✋✋ Move both hands left/right → Steering
-- 👍 Thumb up → Nitro
-- ✊ Fist → Brake
+-Both hands completly up nitro 
+- Both hands down break
 - W → Accelerate
 - S → Brake
 - A / D → Keyboard steering
